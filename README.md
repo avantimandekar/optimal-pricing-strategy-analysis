@@ -42,6 +42,7 @@ Step 3: Business Intelligence – Power BI
 An interactive Power BI dashboard was created to bring the analysis together.
 
 4. Key Business Findings -
+
 Finding 1: Uber has a premium pricing position
 Uber generates ₹5,52,269 in completed-ride revenue, higher than Ola at ₹4,16,262 and Rapido at ₹1,66,163.
 Its average fare is also higher at ₹201.26, while its ride completion rate stands at 73.06%, which is quite similar to its competitors.
